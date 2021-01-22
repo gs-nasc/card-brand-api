@@ -1,1 +1,12 @@
-
+{
+    "name": "card-brand/api",
+    "description": "API for get brand of card",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Gabriel Nascimento",
+            "email": "gsnaxsi@gmail.com"
+        }
+    ],
+    "require": {}
+}
